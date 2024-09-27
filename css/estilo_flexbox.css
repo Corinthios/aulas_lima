@@ -1,0 +1,20 @@
+.div1{
+    background-color: blueviolet;
+}
+.div2{
+    background-color: rgb(113, 226, 43);
+}
+.div3{
+    background-color: rgb(226, 43, 186);
+}
+.container{
+        border: 2px solid black;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+.intem{
+    background: blue;
+    margin: 5px;
+    text-align: center;
+    color: aliceblue;
+}
