@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    /**Asegura que padding e margin sejam incluidos 
+    nas dimeçoes totais*/ 
+    box-sizing: border-box;
+}
+.logo{
+    font-family: Edu Austrália VIC WA NT Guias manuais;
+}
